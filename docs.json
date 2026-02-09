@@ -1,11 +1,11 @@
 {
   "$schema": "https://mintlify.com/docs.json",
   "theme": "aspen",
-  "name": "Mint Starter Kit",
+  "name": "System Prompts",
   "colors": {
-    "primary": "#a31515",
-    "light": "#8992d6",
-    "dark": "#80145e"
+    "primary": "#faf9f6",
+    "light": "#f5f4ed",
+    "dark": "#deded7"
   },
   "favicon": "/favicon.svg",
   "navigation": {
@@ -121,5 +121,11 @@
   },
   "appearance": {
     "default": "system"
+  },
+  "background": {
+    "color": {
+      "light": "#f5f4ed",
+      "dark": "#000000"
+    }
   }
 }
