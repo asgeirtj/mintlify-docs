@@ -3,9 +3,9 @@
   "theme": "aspen",
   "name": "Mint Starter Kit",
   "colors": {
-    "primary": "#16A34A",
-    "light": "#07C983",
-    "dark": "#15803D"
+    "primary": "#a31515",
+    "light": "#8992d6",
+    "dark": "#80145e"
   },
   "favicon": "/favicon.svg",
   "navigation": {
